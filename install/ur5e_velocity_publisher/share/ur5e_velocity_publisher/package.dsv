@@ -1,0 +1,8 @@
+source;ros_domain_id.txt
+source;share/ur5e_velocity_publisher/hook/pythonpath.ps1
+source;share/ur5e_velocity_publisher/hook/pythonpath.dsv
+source;share/ur5e_velocity_publisher/hook/pythonpath.sh
+source;ros_domain_id.txt
+source;share/ur5e_velocity_publisher/hook/ament_prefix_path.ps1
+source;share/ur5e_velocity_publisher/hook/ament_prefix_path.dsv
+source;share/ur5e_velocity_publisher/hook/ament_prefix_path.sh

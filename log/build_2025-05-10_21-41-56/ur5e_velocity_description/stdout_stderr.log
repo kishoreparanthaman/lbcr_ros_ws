@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info
+writing ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/PKG-INFO
+writing dependency_links to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/dependency_links.txt
+writing entry points to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/entry_points.txt
+writing requirements to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/requires.txt
+writing top-level names to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/top_level.txt
+writing manifest file '../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/SOURCES.txt'
+reading manifest file '../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/SOURCES.txt'
+writing manifest file '../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build
+creating /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib
+creating /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib/ur5e_velocity_description
+copying ur5e_velocity_description/__init__.py -> /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib/ur5e_velocity_description
+running install
+running install_lib
+creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages/ur5e_velocity_description
+copying /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib/ur5e_velocity_description/__init__.py -> /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages/ur5e_velocity_description
+byte-compiling /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages/ur5e_velocity_description/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index
+creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index/resource_index
+creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index/resource_index/packages
+copying resource/ur5e_velocity_description -> /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index/resource_index/packages
+copying package.xml -> /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ur5e_velocity_description
+error: can't copy 'urdf/ur5e_velocity.urdf.xacro': doesn't exist or not a regular file
+creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ur5e_velocity_description/urdf

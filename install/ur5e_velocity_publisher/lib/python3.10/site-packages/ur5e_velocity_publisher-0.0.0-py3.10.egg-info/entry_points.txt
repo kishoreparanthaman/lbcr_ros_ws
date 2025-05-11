@@ -1,0 +1,3 @@
+[console_scripts]
+test_velocity_publisher = ur5e_velocity_publisher.test_velocity_publisher:main
+

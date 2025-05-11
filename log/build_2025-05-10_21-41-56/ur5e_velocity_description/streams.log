@@ -1,0 +1,31 @@
+[0.593s] Invoking command in '/home/kishore/ur5e_velocity_ws/src/ur5e_velocity_description': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/prefix_override:/home/kishore/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ur5e_velocity_description build --build-base /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build install --record /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/install.log --single-version-externally-managed install_data
+[0.746s] running egg_info
+[0.746s] creating ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info
+[0.746s] writing ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/PKG-INFO
+[0.746s] writing dependency_links to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/dependency_links.txt
+[0.746s] writing entry points to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/entry_points.txt
+[0.747s] writing requirements to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/requires.txt
+[0.747s] writing top-level names to ../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/top_level.txt
+[0.747s] writing manifest file '../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/SOURCES.txt'
+[0.748s] reading manifest file '../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/SOURCES.txt'
+[0.748s] writing manifest file '../../build/ur5e_velocity_description/ur5e_velocity_description.egg-info/SOURCES.txt'
+[0.749s] running build
+[0.749s] running build_py
+[0.749s] creating /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build
+[0.749s] creating /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib
+[0.749s] creating /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib/ur5e_velocity_description
+[0.749s] copying ur5e_velocity_description/__init__.py -> /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib/ur5e_velocity_description
+[0.749s] running install
+[0.749s] running install_lib
+[0.749s] creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages/ur5e_velocity_description
+[0.749s] copying /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build/lib/ur5e_velocity_description/__init__.py -> /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages/ur5e_velocity_description
+[0.750s] byte-compiling /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages/ur5e_velocity_description/__init__.py to __init__.cpython-310.pyc
+[0.750s] running install_data
+[0.750s] creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index
+[0.750s] creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index/resource_index
+[0.750s] creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index/resource_index/packages
+[0.750s] copying resource/ur5e_velocity_description -> /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ament_index/resource_index/packages
+[0.750s] copying package.xml -> /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ur5e_velocity_description
+[0.750s] error: can't copy 'urdf/ur5e_velocity.urdf.xacro': doesn't exist or not a regular file
+[0.750s] creating /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/share/ur5e_velocity_description/urdf
+[0.762s] Invoked command in '/home/kishore/ur5e_velocity_ws/src/ur5e_velocity_description' returned '1': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/prefix_override:/home/kishore/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kishore/ur5e_velocity_ws/install/ur5e_velocity_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ur5e_velocity_description build --build-base /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/build install --record /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_description/install.log --single-version-externally-managed install_data

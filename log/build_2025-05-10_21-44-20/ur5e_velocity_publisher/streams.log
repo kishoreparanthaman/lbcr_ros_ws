@@ -1,0 +1,21 @@
+[0.609s] Invoking command in '/home/kishore/ur5e_velocity_ws/src/ur5e_velocity_publisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/prefix_override:/home/kishore/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kishore/ur5e_velocity_ws/install/ur5e_velocity_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ur5e_velocity_publisher build --build-base /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/build install --record /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/install.log --single-version-externally-managed install_data
+[0.759s] running egg_info
+[0.759s] writing ../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/PKG-INFO
+[0.759s] writing dependency_links to ../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/dependency_links.txt
+[0.759s] writing entry points to ../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/entry_points.txt
+[0.759s] writing requirements to ../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/requires.txt
+[0.759s] writing top-level names to ../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/top_level.txt
+[0.761s] reading manifest file '../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/SOURCES.txt'
+[0.761s] writing manifest file '../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info/SOURCES.txt'
+[0.761s] running build
+[0.761s] running build_py
+[0.761s] running install
+[0.761s] running install_lib
+[0.762s] running install_data
+[0.762s] running install_egg_info
+[0.763s] removing '/home/kishore/ur5e_velocity_ws/install/ur5e_velocity_publisher/lib/python3.10/site-packages/ur5e_velocity_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[0.763s] Copying ../../build/ur5e_velocity_publisher/ur5e_velocity_publisher.egg-info to /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_publisher/lib/python3.10/site-packages/ur5e_velocity_publisher-0.0.0-py3.10.egg-info
+[0.763s] running install_scripts
+[0.774s] Installing play_velocities script to /home/kishore/ur5e_velocity_ws/install/ur5e_velocity_publisher/lib/ur5e_velocity_publisher
+[0.774s] writing list of installed files to '/home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/install.log'
+[0.790s] Invoked command in '/home/kishore/ur5e_velocity_ws/src/ur5e_velocity_publisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/prefix_override:/home/kishore/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kishore/ur5e_velocity_ws/install/ur5e_velocity_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ur5e_velocity_publisher build --build-base /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/build install --record /home/kishore/ur5e_velocity_ws/build/ur5e_velocity_publisher/install.log --single-version-externally-managed install_data
